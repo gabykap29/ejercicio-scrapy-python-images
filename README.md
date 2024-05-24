@@ -1,7 +1,7 @@
 # Python Scrapy Practice
 Este Script desarrollado en python, obtiene todas las imagenes de un sitio web, solo debes ingresar la url,
 al ingresarla, todas las imagenes quedaran almacenadas en la carpeta del proyecto en una carpeta llamada `images`.
-Las urls de las iamagenes descargadas, quedarán en un archivo json llamado `images.json`
+Las urls de las imagenes descargadas, quedarán en un archivo json llamado `images.json`
 
 ## Instalación
 
